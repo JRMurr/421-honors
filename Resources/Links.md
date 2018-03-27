@@ -12,13 +12,18 @@ Learning discriminative projections for text similarity measures https://dl.acm.
     - Find similairty with cosine distance btwn the projected vectors
     - Loss is pairwise loss instead of looking at individual pairs, this makes it better at ranking instead of computing direct similairty 
 
+Learning Text Similarity with Siamese Recurrent Networks http://www.aclweb.org/anthology/W16-16#page=162
+
+    - Uses siamese network structure on variable length strings
+    - LSTM 
+    - Generates word emdedings then does cos similarity
+
 # Models
 
 https://github.com/dhwajraj/deep-siamese-text-similarity
 
 
 # Data
-most do similar not similar instead of real number similairty 
 https://nlp.stanford.edu/projects/snli/
 
 https://github.com/brmson/dataset-sts
