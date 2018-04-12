@@ -18,6 +18,13 @@ Learning Text Similarity with Siamese Recurrent Networks http://www.aclweb.org/a
     - LSTM 
     - Generates word emdedings then does cos similarity
 
+
+The Evaluation of Sentence Similarity Measures https://www.researchgate.net/profile/Palakorn_Achananuparp/publication/220802383_The_Evaluation_of_Sentence_Similarity_Measures/links/0deec52cb85c20b04a000000.pdf
+
+
+Sentence Pair Scoring: Towards Unified Framework for Text Comprehension https://arxiv.org/abs/1603.06127
+
+
 # Models
 
 https://github.com/dhwajraj/deep-siamese-text-similarity
@@ -29,3 +36,20 @@ https://nlp.stanford.edu/projects/snli/
 https://github.com/brmson/dataset-sts
  - cloned locally
  - para dataset seems good
+
+https://www.kaggle.com/rishisankineni/text-similarity
+
+http://ixa2.si.ehu.es/stswiki/index.php/Main_Page
+
+
+
+# Other 
+
+https://multithreaded.stitchfix.com/blog/2017/10/18/stop-using-word2vec/
+
+https://keras.io/getting-started/functional-api-guide/#shared-layers
+
+https://gist.github.com/mmmikael/0a3d4fae965bdbec1f9d
+
+https://github.com/fchollet/deep-learning-with-python-notebooks/blob/master/6.2-understanding-recurrent-neural-networks.ipynb
+
