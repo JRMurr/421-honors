@@ -41,6 +41,8 @@ https://www.kaggle.com/rishisankineni/text-similarity
 
 http://ixa2.si.ehu.es/stswiki/index.php/Main_Page
 
+http://alt.qcri.org/semeval2014/task3/index.php?id=data-and-tools
+
 
 
 # Other 
