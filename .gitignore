@@ -1,5 +1,7 @@
 # my stuff
 data/
+*.h5
+Scratch.*
 
 .DS_store
 

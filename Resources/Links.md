@@ -47,6 +47,8 @@ http://alt.qcri.org/semeval2014/task3/index.php?id=data-and-tools
 
 # Other 
 
+https://nlp.stanford.edu/projects/glove/
+
 https://multithreaded.stitchfix.com/blog/2017/10/18/stop-using-word2vec/
 
 https://keras.io/getting-started/functional-api-guide/#shared-layers
