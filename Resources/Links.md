@@ -32,10 +32,9 @@ https://github.com/dhwajraj/deep-siamese-text-similarity
 
 # Data
 https://nlp.stanford.edu/projects/snli/
+- i used this https://drive.google.com/open?id=1itu7IreU_SyUSdmTWydniGxW-JEGTjrv, just a txt file with 0,1 bool values
 
 https://github.com/brmson/dataset-sts
- - cloned locally
- - para dataset seems good
 
 https://www.kaggle.com/rishisankineni/text-similarity
 
